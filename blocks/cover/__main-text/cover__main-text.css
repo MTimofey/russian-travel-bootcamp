@@ -1,0 +1,7 @@
+.cover__main-text {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
