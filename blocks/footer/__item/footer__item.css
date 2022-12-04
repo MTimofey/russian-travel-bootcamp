@@ -2,6 +2,14 @@
   display: flex;
   margin-right: 18px;
 }
-.footer__iteam:last-child {
+.footer__item:last-child {
   margin-right: 0px;
+}
+@media screen and (max-width: 767px) {
+  .footer__item {
+    margin: 0 0 12px;
+  }
+  .footer__item:last-child {
+    margin: 0;
+  }
 }

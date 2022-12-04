@@ -1,7 +1,5 @@
 .header__lang-link {
-  margin: 0;
-  max-width: 30px;
-  max-height: 28px;
+  margin: 0;;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -19,11 +17,16 @@
   text-underline-offset: 2px;
   text-decoration-thickness: 0.8px;
 }
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .header__lang-link {
-    min-width: 22px;
-    min-height: 20px;
     font-size: 18px;
     line-height: 20px;
+  }
+  .header__lang-link:hover {
+    color: #F85C50;
+    opacity: 1;
+    text-decoration: underline;
+    text-underline-offset: 1.5px;
+    text-decoration-thickness: 0.6px;
   }
 }
