@@ -1,5 +1,6 @@
 .cover__background-image {
   width: 100%;
+  color: white;
   min-height: 740px;
   background-image: url(../../../images/background.png);
   background-position: center;
@@ -12,7 +13,8 @@
   position: relative;
   text-decoration: none;
   margin: 0;
-  opacity: 0.8;
+  opacity: 1;
+  z-index: 1;
 }
 .cover__background-image::after {
   content: "";
@@ -25,7 +27,7 @@
   left: 0;
   bottom: 0;
   right: 0;
-  z-index: -2;
+  z-index: -1;
   transition: opacity 1s ease-in 0.5s;
 }
 .cover__background-image:hover::after {
