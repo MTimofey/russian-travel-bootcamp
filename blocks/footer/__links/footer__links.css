@@ -8,6 +8,6 @@
   .footer__links {
     display: flex;
     flex-direction: column;
-    margin: 0 0 48px 16px;
+    margin: 0 0 48px;
   }
 }

@@ -1,11 +1,14 @@
 .cover__main-text {
   max-width: 560px;
-  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  text-decoration: none;
+  opacity: 1;
+  transition: opacity 1s linear 0.5s;
+}
+.cover__main-text:hover {
+  opacity: 1;
 }
 @media screen and (max-width: 767px) {
   .cover__main-text {
