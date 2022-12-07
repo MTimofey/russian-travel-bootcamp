@@ -12,6 +12,6 @@
 Основная идея проекта: создать из готового дизайна прокта свой идентичный проект с соблюдением деталий сайта.
 
 ### Ссылка на проект
- https://mtimofey.github.io/russian-travel-bootcamp/index.html
+ [Мой проект](https://mtimofey.github.io/russian-travel-bootcamp/index.html)
 ### Ссылка на готовый проект Figma
- https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A590&t=6XBt4U41q7lhMkV2-0
+[Проект Russian Travel](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A590&t=6XBt4U41q7lhMkV2-0)
